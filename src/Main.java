@@ -9,7 +9,7 @@ public class Main {
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
 		BaseCustomerManager customerManager = new StarbucksCustomerManager(new MernisServiceAdapter());
-	//	Customer customer= new Customer(1,"Ayca","Aydemir",(1993,11,29),"20963286488");
+	//	Customer customer= new Customer(1,"Ayca","Aydemir",(1993,11,29),"20903286488");
 	//	Customer customer= new Customer();
     // customer.FirstName="Ayça";
 	//	Date d1= new Date(1993);	
